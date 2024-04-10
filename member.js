@@ -1,0 +1,6 @@
+function skillsMember() {
+  // Path: member.js
+  return {
+    skills: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+  };
+}
